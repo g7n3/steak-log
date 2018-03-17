@@ -1,4 +1,4 @@
-# steak-log :1150:
+# steak-log :dash:
 A realtime log service
 日志记录服务，基于syslog
 
